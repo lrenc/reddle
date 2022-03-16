@@ -1,7 +1,7 @@
 # Reddle
 React 全局状态管理工具，其灵感来自于 Recoil。
 
-## why not Recoil
+## Why not Recoil
 
 * API 过多
 * 异步 selector 需要配合 Suspense 才能使用
