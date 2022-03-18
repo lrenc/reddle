@@ -6,3 +6,4 @@ React 全局状态管理工具，其灵感来自于 Recoil。
 * API 过多
 * 异步 selector 需要配合 Suspense 才能使用
 * 自定义参数无法跨 selectorFamily 传递
+* 只支持function component
