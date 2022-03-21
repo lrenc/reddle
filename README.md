@@ -1,5 +1,5 @@
 # Reddle
-React 全局状态管理工具，其灵感来自于 Recoil。
+React 全局状态管理工具，灵感来自于 Recoil。
 
 ## Why not Recoil
 
